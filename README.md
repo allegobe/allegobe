@@ -43,7 +43,7 @@
 <!-- Replace these with your real links -->
 📩 Email: gobearish@email.com
 
-🐦 Twitter/X: @alle_gobe
+🐦 Twitter/X: https://x.com/alle_gobe
 
 💼 LinkedIn: www.linkedin.com/in/allegobe/
 
