@@ -35,3 +35,17 @@
   - [ ] Build 2 mini-projects
   - [ ] Deploy my first portfolio
 ```
+🎶 Music That Fuels My Code
+
+<sub>Yes, I code with beats on. It keeps the energy right.</sub>
+
+📬 Let's Connect
+<!-- Replace these with your real links -->
+📩 Email: gobearish@email.com
+
+🐦 Twitter/X: @alle_gobe
+
+💼 LinkedIn: www.linkedin.com/in/allegobe/
+
+Thanks for visiting!
+✨ Keep vibing and building ✨
