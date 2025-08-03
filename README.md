@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋🏾 Hello World, I'm Alle
 
-<!--
-**allegobe/allegobe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 I'm a self-taught developer from 🇪🇹 Ethiopia, learning to code through **vibes and consistency**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+
+* 🎧 I vibe with music while learning to code
+* 📚 Currently learning: HTML, RUST, JavaScript
+* 🛠️ Working on: small frontend projects and open-source practice
+* ✝️ Faith-based and growth-minded
+* 💻 My goal: become a Blockchain Developer
+
+---
+
+## 🔥 Projects I'm Building
+
+| Project                            | Description                                                   | Tech Stack    |
+| ---------------------------------- | ------------------------------------------------------------- | ------------- |
+| `100-days-of-code-ethiopian-style` | My coding journey log                                         | Markdown, Git |
+| `vibe-js-sandbox`                  | Cool experiments with JavaScript                              | HTML, CSS, JS |
+| `song-lyrics-times-widget`         | Simple web app to provide lyrics for songs and song streaming | HTML, API     |
+|                                    |                                                               |               |
+
+---
+
+## 📅 Learning Journey
+
+```yaml
+2025:
+  - [x] Learn HTML & RUST
+  - [x] Create GitHub profile README
+  - [ ] Finish JavaScript basics
+  - [ ] Build 2 mini-projects
+  - [ ] Deploy my first portfolio
+```
